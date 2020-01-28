@@ -3,4 +3,4 @@
 
 程序详情：[局域网IP多播](http://mybules.com/?p=205)
 程序截图：
-![tt]()
+![tt](ChatRoom/get-2.png)
