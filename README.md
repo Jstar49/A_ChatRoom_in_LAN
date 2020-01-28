@@ -2,3 +2,5 @@
 基于局域网IP多播的网络聊天室,QT版本是QT5.9.0
 
 程序详情：[局域网IP多播](http://mybules.com/?p=205)
+程序截图：
+![tt](http://mybules.com/wp-content/uploads/2019/12/%E6%8D%95%E8%8E%B7-2.png)
